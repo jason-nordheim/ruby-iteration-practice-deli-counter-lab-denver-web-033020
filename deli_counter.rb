@@ -1,9 +1,9 @@
 # Write your code here.
 
-def line 
-  
+def line
+
 end
 
 def take_a_number
   
-end 
+end
