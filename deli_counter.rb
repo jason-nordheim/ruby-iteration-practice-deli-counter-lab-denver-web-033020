@@ -21,6 +21,6 @@ def take_a_number(deli_line, name)
   deli_line
 end
 
-def now_serving
+def now_serving(deli_line)
 
 end
