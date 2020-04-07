@@ -11,6 +11,8 @@ def line(katz_deli)
 end
 
 def take_a_number(deli_line, name)
+  deli_line << name
+  deli_line
 end
 
 def now_serving
