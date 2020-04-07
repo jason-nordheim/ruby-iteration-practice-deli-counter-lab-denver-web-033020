@@ -24,5 +24,7 @@ end
 def now_serving(deli_line)
   if deli_line.count == 0
       puts "There is nobody waiting to be served!"
+  else
+    
   end
 end
