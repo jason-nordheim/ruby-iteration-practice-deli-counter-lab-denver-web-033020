@@ -13,7 +13,7 @@ end
 def take_a_number(deli_line, name)
   deli_line << name
   if deli_line.count == 1
-    puts "Welcome, #{name} You are number 1 in line."
+    puts "Welcome, #{name}. You are number 1 in line."
   else
     i = deli_line.index(name)
     puts "Welcome, #{deli_line[i]}. You are number #{i + 1} in line."
