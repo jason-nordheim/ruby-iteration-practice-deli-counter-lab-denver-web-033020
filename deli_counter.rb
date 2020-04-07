@@ -14,6 +14,8 @@ def take_a_number(deli_line, name)
   deli_line << name
   if deli_line.count == 1
     puts "Welcome, #{name} You are number 1 in line."
+  else
+  end 
   deli_line
 end
 
